@@ -8,6 +8,8 @@ from nltk.corpus import sentiwordnet as swn
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 
+#i am just trying to understand git kraken 
+
 
 
 
